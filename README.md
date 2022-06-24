@@ -17,7 +17,7 @@
  
  ## Who am I?
  ```csharp
- public class WhoAmI
+    public class WhoAmI
     {
         private string fullName; 
         public string FullName
@@ -40,19 +40,27 @@
             set { address = "Zagreb, Croatia"; }
         }
 
+        private decimal programmingExperience;
+        public decimal ProgrammingExperience
+        {
+            get { return programmingExperience; }
+            set { programmingExperience = 7.5M; }
+        }
+
         public List<string> GetHobbies()
         {
             return new List<string>{ "Drawing", "Reading Sci-Fi Novels", "Writing a tech blog", "Being up all Night chasing that ONE BUG..." };
         }
+
         public Dictionary<string,List<string>> GetTechnologiesAndProgramingLanguages()
         {
             return new Dictionary<string, List<string>>
             {
                 {"ProgramingLanguages", new List<string>{"C#", "SQL", "JavaScript" } },
                 {"Databases", new List<string>{"MSSQL", "PostgreSQL", "MariaDB", "DB2" } },
-                {"Frameworks", new List<string>{".net core", ".net", "Vue.js", "Angular" } },
+                {"Framework", new List<string>{".net core", ".net", "Vue.js", "Angular" } },
                 {"Technologies", new List<string>{"API", "Messagebus", "Azure", "Azure functions" } },
-                {"MyPopularNugetPackages", new List<string>{"Mapster", "Newtonsoft.json", "Serilog", "Swashbuckle", "Moq", "Polly", "Quartz", "..." } }
+                {"PopularNugetPackages", new List<string>{"Mapster", "Newtonsoft.json", "Serilog", "Swashbuckle", "Moq", "Polly", "Quartz", "..." } }
             };
         }
     }
@@ -62,7 +70,7 @@
 ## Current Posts on LinkedIn
 * [Send SMS messages with C# & .net6](https://www.linkedin.com/pulse/send-sms-messages-c-net6-matija-katadzic-1e/)
 * [Run and manage periodic background tasks in ASP.NET Core 6 with C#](https://www.linkedin.com/pulse/run-manage-periodic-background-tasks-aspnet-core-6-c-matija-katadzic/)
-* [Mapping Experiment in .net core- AutoMapper, ExpressMapper, Mapster & Manual mapping](https://www.linkedin.com/pulse/mapping-experiment-net-core-automapper-expressmapper-matija-katadzic/)
+* [Mapping Experiment in .net core - AutoMapper, ExpressMapper, Mapster & Manual mapping](https://www.linkedin.com/pulse/mapping-experiment-net-core-automapper-expressmapper-matija-katadzic/)
 * [And many more...](https://www.linkedin.com/in/matija-katadzic-288691108/details/featured/)
  
 ## Other Stuff
