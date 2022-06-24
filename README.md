@@ -1,58 +1,72 @@
-## Hey, [Haany here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, Matija here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-matijakatadzic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matija-katadzic-288691108)](https://www.linkedin.com/in/matija-katadzic-288691108/) [![Gmail Badge](https://img.shields.io/badge/-matija.katadzic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matija.katadzic@gmail.com)](mailtomatija.katadzic@gmail.com) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matijakatadzic" alt="matijakatadzic" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
-* Flutter
+* .net core
 * Machine Learning
-* Data Science
 * Frontend and Backend Web Development
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=matijakatadzic&layout=compact">
 
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
- 
- ## Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
  
  ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-		current_edu = "St. Mary's Group of Institutions"
-		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Hyderabad_India()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
+ ```csharp
+ public class WhoAmI
+    {
+        private string fullName; 
+        public string FullName
+        {
+            get { return fullName; }
+            set { fullName = "Matija Katadzic"; }
+        }
+
+        private string email;
+        public string Email
+        {
+            get { return email; }
+            set { email = "matija.katadzic@gmail.com"; }
+        }
+
+        private string address;
+        public string Address
+        {
+            get { return address; }
+            set { address = "Zagreb, Croatia"; }
+        }
+
+        public List<string> GetHobbies()
+        {
+            return new List<string>{ "Drawing", "Reading Sci-Fi Novels", "Writing a tech blog", "Being up all Night chasing that ONE BUG..." };
+        }
+        public Dictionary<string,List<string>> GetTechnologiesAndProgramingLanguages()
+        {
+            return new Dictionary<string, List<string>>
+            {
+                {"ProgramingLanguages", new List<string>{"C#", "SQL", "JavaScript" } },
+                {"Databases", new List<string>{"MSSQL", "PostgreSQL", "MariaDB", "DB2" } },
+                {"Framework", new List<string>{".net core", ".net", "Vue.js", "Angular" } },
+                {"Technologies", new List<string>{"API", "Messagebus", "Azure", "Azure functions" } },
+                {"PopularNugetPackages", new List<string>{"Mapster", "Newtonsoft.json", "Serilog", "Swashbuckle", "Moq", "Polly", "Quartz", "..." } }
+            };
+        }
+    }
 	
  ```
  
-## Current Works
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Getting Started with NodeJS and the MERN Stack!!
+## Current Posts on LinkedIn
+* [Send SMS messages with C# & .net6](https://www.linkedin.com/pulse/send-sms-messages-c-net6-matija-katadzic-1e/)
+* [Run and manage periodic background tasks in ASP.NET Core 6 with C#](https://www.linkedin.com/pulse/run-manage-periodic-background-tasks-aspnet-core-6-c-matija-katadzic/)
+* [Mapping Experiment in .net core- AutoMapper, ExpressMapper, Mapster & Manual mapping](https://www.linkedin.com/pulse/mapping-experiment-net-core-automapper-expressmapper-matija-katadzic/)
+* [And more...]
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
+  - :octocat: [My Resume](https://www.linkedin.com/in/matija-katadzic-288691108/)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
+![Matija github stats](https://github-readme-stats.vercel.app/api?username=matijakatadzic&show_icons=true&hide=[%22issues%22])
