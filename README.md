@@ -50,9 +50,9 @@
             {
                 {"ProgramingLanguages", new List<string>{"C#", "SQL", "JavaScript" } },
                 {"Databases", new List<string>{"MSSQL", "PostgreSQL", "MariaDB", "DB2" } },
-                {"Framework", new List<string>{".net core", ".net", "Vue.js", "Angular" } },
+                {"Frameworks", new List<string>{".net core", ".net", "Vue.js", "Angular" } },
                 {"Technologies", new List<string>{"API", "Messagebus", "Azure", "Azure functions" } },
-                {"PopularNugetPackages", new List<string>{"Mapster", "Newtonsoft.json", "Serilog", "Swashbuckle", "Moq", "Polly", "Quartz", "..." } }
+                {"MyPopularNugetPackages", new List<string>{"Mapster", "Newtonsoft.json", "Serilog", "Swashbuckle", "Moq", "Polly", "Quartz", "..." } }
             };
         }
     }
