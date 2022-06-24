@@ -63,7 +63,7 @@
 * [Send SMS messages with C# & .net6](https://www.linkedin.com/pulse/send-sms-messages-c-net6-matija-katadzic-1e/)
 * [Run and manage periodic background tasks in ASP.NET Core 6 with C#](https://www.linkedin.com/pulse/run-manage-periodic-background-tasks-aspnet-core-6-c-matija-katadzic/)
 * [Mapping Experiment in .net core- AutoMapper, ExpressMapper, Mapster & Manual mapping](https://www.linkedin.com/pulse/mapping-experiment-net-core-automapper-expressmapper-matija-katadzic/)
-* [And more...]
+* [And many more...](https://www.linkedin.com/in/matija-katadzic-288691108/details/featured/)
  
 ## Other Stuff
   - :octocat: [My Resume](https://www.linkedin.com/in/matija-katadzic-288691108/)
