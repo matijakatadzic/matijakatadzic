@@ -14,6 +14,17 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=matijakatadzic&layout=compact">
 
+## Summary
+Software developer with 8+ years in various software development
+roles.
+Pragmatic mindset, always looking for optimal cost-effective
+solutions, big fan of Kaizen's "continual improvement" philosophy
+and prototype-driven development approach.
+
+## Quotes I like to remind myself often to:
+* “Perfect is the enemy of good.” ― Voltaire
+* “Goals are good for setting a direction, but systems are best for making progress.” ― James Clear, Atomic Habits
+* “Ideas are easy. Execution is everything.” ― John Doerr, Measure What Matters
  
  ## Who am I?
  ```csharp
