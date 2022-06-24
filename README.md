@@ -2,7 +2,7 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-matijakatadzic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matija-katadzic-288691108)](https://www.linkedin.com/in/matija-katadzic-288691108/) [![Gmail Badge](https://img.shields.io/badge/-matija.katadzic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matija.katadzic@gmail.com)](mailtomatija.katadzic@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-matijakatadzic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matija-katadzic-288691108)](https://www.linkedin.com/in/matija-katadzic-288691108/) [![Gmail Badge](https://img.shields.io/badge/-matija.katadzic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matija.katadzic@gmail.com)](mailto:matija.katadzic@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matijakatadzic" alt="matijakatadzic" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
