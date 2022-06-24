@@ -15,7 +15,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=matijakatadzic&layout=compact">
 
 ## Summary
-Software developer with 8+ years in various software development
+Software developer with 7+ years in various software development
 roles.
 Pragmatic mindset, always looking for optimal cost-effective
 solutions, big fan of Kaizen's "continual improvement" philosophy
