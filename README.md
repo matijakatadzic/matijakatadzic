@@ -85,7 +85,7 @@ and prototype-driven development approach.
 * [And many more...](https://www.linkedin.com/in/matija-katadzic-288691108/details/featured/)
  
 ## Other Stuff
-  - :octocat: [My Resume](https://www.linkedin.com/in/matija-katadzic-288691108/)
+  - :octocat: [My Resume](https://1drv.ms/b/s!AgHpg9zU5xSbtBMqghb3ys7-nGGX?e=CUNZFD)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 ![Matija github stats](https://github-readme-stats.vercel.app/api?username=matijakatadzic&show_icons=true&hide=[%22issues%22])
